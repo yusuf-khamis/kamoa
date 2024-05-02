@@ -75,4 +75,4 @@ The navigation between pages is done by replacing the current page with the new 
 
 ## Demo
 
-![Kamoa app demo](demo.mp4)
+<video src="demo.mp4"></video>
