@@ -58,6 +58,8 @@ npm test
 yarn test
 ```
 
+**NB: Kindly note I have had a bug in unit test that was taking too long to resolve and am out of time hence forewent the tests, but the app's functionality is as expected.**
+
 ## Implementation
 
 There are just two pages in the app, upload page and home page.
@@ -70,3 +72,7 @@ The primary action buttons are basically for progressing and on last page, it ta
 The home page does not do much but just displaying the status of whether user has uploaded statements and accepted permissions or not. It also provides a button that can take user back to the upload page.
 
 The navigation between pages is done by replacing the current page with the new page in the navigation stack, this is mainly to avoid going back through all the pages layers in the navigation stack when user presses the back button, so when user presses back button, they will just be exiting the app instead of going through the entire stack before exiting.
+
+## Demo
+
+![Kamoa app demo](demo.mp4)
