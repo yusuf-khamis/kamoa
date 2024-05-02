@@ -75,4 +75,6 @@ The navigation between pages is done by replacing the current page with the new 
 
 ## Demo
 
+The video demo of the app is included in the repo in file *demo.mp4*.
+
 <video src="demo.mp4"></video>
